@@ -1,0 +1,2 @@
+gcc -g -O2 -o ms  ms.c  rand1.c streec.c -lm
+
